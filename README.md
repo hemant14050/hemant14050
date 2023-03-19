@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
  -->
-- ⚡As an engineering student with a passion for technology, I am constantly exploring new frontiers in the world of Technology🔥.
+<p align="center">⚡As an engineering student with a passion for technology, <br> I am constantly exploring new frontiers in the world of Technology🔥.</p>
 
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning ReactJs and NodeJs.
