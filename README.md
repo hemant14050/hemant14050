@@ -1,11 +1,14 @@
-### Hi <Developers/>, I am Hemant!👋
+<h1 align="center"> Hi <Developers/>, I am Hemant!👋 </h1>
+<h3 align="center">🚀Growing as Full Stack Developer 🚀</h3>
+
 
 <!-- 
 **hemant14050/hemant14050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
  -->
-- As an engineering student with a passion for technology💻, I am constantly exploring new frontiers in the world of Technology🔥.
+<p> As an engineering student with a passion for technology💻, <br>I am constantly exploring new frontiers in the world of Technology🔥.</p>
+
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning ReactJs and NodeJs.
 - 👯 I’m looking to collaborate on MERN stack projects.
