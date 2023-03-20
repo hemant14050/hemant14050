@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 </p>
 
 ## Some Statistics About Me
-![Hemant's github stats](https://github-readme-stats.vercel.app/api?username=hemant14050&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
+![Hemant's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hemant14050&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
