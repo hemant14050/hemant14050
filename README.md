@@ -1,36 +1,29 @@
-<h1 align="center"> Hello <Developers/>, I am Hemant!👋 </h1>
-<h3 align="center">🚀Growing as Full Stack Developer🚀</h3>
+# Hey there! I'm Hemant 👋
 
+## I'm a Full Stack Developer and an engineering student with a passion for technology. 
+I'm constantly exploring new frontiers in the world of technology and growing my skills to stay up to date with the latest trends.
 
-<!-- 
-**hemant14050/hemant14050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- -->
-<p align="center">⚡As an engineering student with a passion for technology <br> I am constantly exploring new frontiers in the world of Technology🔥</p>
-
-- 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning ReactJs and NodeJs
-- 👯 I’m looking to collaborate on MERN stack projects
+- 🔭 I'm currently working on improving my skills in ReactJs and NodeJs.
+- 👯 I'm looking to collaborate on MERN stack projects to gain practical experience and contribute to open source projects.
 - 💬 Ask me about Web dev related Stuff
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/hemant14050/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemant14050@gmail.com)](mailto:hemant14050@gmail.com)
-- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+- ⚡ Fun fact: I like ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Skills and Expertise
+- Proficient in HTML, CSS, JavaScript
+- Experienced in ReactJs, NodeJs
+- Familiar with MERN stack development
+- Strong problem-solving skills and attention to detail
 
 ## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/hemant14050" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant14050" height="30" width="40" /></a> &nbsp;
-<a href="https://twitter.com/hemant14050" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemant14050" height="30" width="40" /></a> &nbsp;
-<a href="mailto:hemant14050@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/1x/gmail.png" alt="hemant14050" height="30" width="40"/></a> &nbsp;
-<a href="https://instagram.com/hemant14050" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemant14050" height="30" width="40" /></a>
-<p>
+Feel free to connect with me on [LinkedIn](linkedin.com/in/hemant14050) or email me at hemant14050@gmail.com. I'm always open to discussing new opportunities and networking with like-minded individuals. <br/>
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant14050/) 
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hemant14050)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hemant14050@gmail.com)](mailto:hemant14050@gmail.com)
 
 ## Programming Profiles
-<p align="left">
-<a href="https://www.leetcode.com/hemant_14050" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemant_14050" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hemant_2910" target="_blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="hemant_2910" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hemant14050" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemant14050" height="30" width="40" /></a>
-</p>
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/hemant_14050)
+[![Codechef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hemant_2910)
+[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hemant14050)
 
 ## Languages and Tools
 <p align="left"> 
