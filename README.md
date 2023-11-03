@@ -44,5 +44,8 @@ Feel free to connect with me on [LinkedIn](linkedin.com/in/hemant14050) or email
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?f=avif&w=128" alt="vscode" width="40" height="40"/> </a>
 </p>
 
+## Hacktoberfest 2023
+[![An image of @hemant14050's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemant14050)](https://holopin.io/@hemant14050)
+
 ## Some Statistics About Me
 ![Hemant's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hemant14050&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
